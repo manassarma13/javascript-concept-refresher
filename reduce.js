@@ -1,6 +1,8 @@
-const vals = [10, 5, 25, 20, 7, 13]         // inreduce accumulator goes over each array 
-                                            // and value represents each element
-                                            // so retun the accumulator
+// in reduce, accumulator goes over each array 
+// and value represents each element
+// so retun the accumulator
+
+const vals = [10, 5, 25, 20, 7, 13]         
 
 //Reduce and calculate sum
 
