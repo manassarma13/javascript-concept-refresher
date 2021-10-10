@@ -2,7 +2,7 @@
 
 console.log("Start-Node");
 
-//Browser keeps track of the timeout, 
+//Web Apis in the browser keeps track of the timeout, 
 //The callstack doesn't 
 
 setTimeout(() => {
