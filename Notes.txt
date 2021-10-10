@@ -1,0 +1,13 @@
+
+#Operator Precedence :: 
+
+        NOT (!) has higher precedence than && and ||
+        && has higher precedence than ||
+        can alter this using parantheses ()
+
+#Switch:
+        break; is required after every case end,
+        else all the cases following that case would run
+
+#Ternary Operator
+        condition ? expIfTrue: expIfFalse

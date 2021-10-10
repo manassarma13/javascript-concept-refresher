@@ -1,0 +1,9 @@
+My VS Code Extentions:
+
+Emmet
+Material Theme
+Live Server
+Bracket Pair Colorizer
+ES7/React Snippets
+Prettier 
+CSS Peek

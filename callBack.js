@@ -10,7 +10,7 @@ function loginUser(email, password, callback) {
 function getUserDetails(email, callback) {
     setTimeout(() => {
         callback(['detail1', 'detail2', 'detail3']);
-    })
+    }, 1000)
 }
 
 const user = loginUser('manassarma121@xyzmail.com', 123654, (user) => {
