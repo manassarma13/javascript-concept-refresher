@@ -10,7 +10,7 @@ console.log('sum =', sum);
 const largest = vals.reduce((acc, val) => acc > val ? acc : val);
 console.log("largest is", largest);
 
-
+//Displaying same array using reduce
 const fruits = ['apple', 'banana', 'mango', 'orange']
 const fruitsReduce = fruits.map((fruit) => fruit);
 console.log(fruitsReduce);
