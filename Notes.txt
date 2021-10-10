@@ -1,3 +1,6 @@
+###NOTES!!!
+
+#Primitive types vs Reference types!
 
 #Operator Precedence :: 
 
@@ -6,8 +9,53 @@
         can alter this using parantheses ()
 
 #Switch:
+
         break; is required after every case end,
         else all the cases following that case would run
 
-#Ternary Operator
+#Ternary Operator:
+
         condition ? expIfTrue: expIfFalse
+
+#Arrays:
+
+        Push - Pop: Adds and removes from the end.
+
+        Shift - Unshift: Removes and adds to the start.
+
+        Concat: array1.concat(array2).
+
+        Includes: looks for a value & returns true or false.
+
+        IndexOf: just like str.indexOf.
+
+        **use include if a value is present use indexOf to know where.
+
+        join: takes the element and puts it in a single string.
+
+        reverse: reverses the array.
+
+        slice: Takes a portion of the array and spits it to a new array.
+
+        splice*: Remove/Replaces/Adds a new element.
+
+        sort: donot use it. F#in ridiculous
+
+#Objects || Dictionary in Python
+
+        Objects are collection of properties 
+        Properties are key value pair
+        Rather than accessing data using an index, use custom keys
+
+#Nesting and Accessing Objects
+
+#Comparing Arrays and Objects
+
+#For-Loop
+
+                for(initialExpression; condition; incrementExpression) {}
+
+
+        
+
+        
