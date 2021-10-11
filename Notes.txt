@@ -1,5 +1,8 @@
 ###NOTES!!!
 
+#Console.log
+        console is an object. Together with .log it is a method 
+
 #Primitive types vs Reference types!
 
 #Operator Precedence :: 
@@ -51,11 +54,23 @@
 
 #Comparing Arrays and Objects
 
-#For-Loop
+#For..Loop - Great to use to loop from start point to stop point - single liner
 
-                for(initialExpression; condition; incrementExpression) {}
+        for(initialExpression; condition; incrementExpression) {}
+        Nesting, Over Arrays
 
+#While..Loop - great if the logic has some uncertainity
 
-        
+        while (condition) {
+        // code block to be executed
+        }
 
-        
+#Break
+
+		break; out of the loop
+
+#For..Of - Great to iterate over arrays
+
+		for(variable of iterable) { code block statements }
+
+#
