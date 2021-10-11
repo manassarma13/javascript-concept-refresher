@@ -13,7 +13,9 @@
 
 const names = [['Manas', 'Sarma'], ['Arun', 'Mukkath'], ['Bill', 'Gotham'], ['Subu', 'Murugan']];
 
-const namesReMapped = names.map((name, index) => {return (`first: ${name[0]}, last: ${name[1]}`)}, {});
+const namesReMapped = names.map((name, index) => {
+    return (`first: ${name[0]} , last: ${name[1]}`);
+}, {});
 
 console.log(namesReMapped);
 
@@ -21,6 +23,9 @@ console.log(namesReMapped);
 
 const fruits = [['banana', 4], ['apple', 6], ['pears', 12], ['orange', 6]];
 
-const fruitsReduced  = fruits.reduce((acc, [key, value]) => Object.assign(acc, { [key]: value }), {});
-    
+const fruitsReduced = fruits.reduce((acc, [key, value]) => {
+    return
+    Object.assign(acc, { [key]: value })
+}, {});
+
 console.log(fruitsReduced);
