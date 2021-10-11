@@ -69,8 +69,20 @@
 
 		break; out of the loop
 
-#For..Of - Great to iterate over arrays
+#For..Of - Great to iterate over arrays --For Of wants and Iterable
 
 		for(variable of iterable) { code block statements }
 
-#
+#For..In - Iterates automatically! --For In wants an object 
+ 
+		for(variables in object)  code block statements }
+
+#Functions - write reusable and modular code : Define and Run
+
+		function funcName(){
+			/write logic for the function
+		}
+
+		funcName()	
+	#Arguments - none, single, multiple
+	#Return - return value captures it in variable then pass them to another function 

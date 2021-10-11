@@ -17,6 +17,8 @@ for (let char of 'anti-matter') {
 }
 
 
+//Second Example
+
 const movieReviews = {
     A: 9.5,
     B: 9,
