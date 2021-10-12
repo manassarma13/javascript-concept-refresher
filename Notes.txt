@@ -77,7 +77,7 @@
  
 		for(variables in object)  code block statements }
 
-#Functions - write reusable and modular code : Define and Run
+#Functions - write reusable and modular code : Define and Run - in js functions are object
 
 		function funcName(){
 			/write logic for the function
@@ -87,3 +87,8 @@
 	#Arguments - none, single, multiple
 	#Return - return value captures it in variable then pass them to another function 
 	#Function Scope-Block Scope [var vs let&const: Identifiers+ Scope]
+        #Function Expression
+        #Function as an Arguments
+        #Function as retun values
+        #Callbacks
+        #Hoisting
