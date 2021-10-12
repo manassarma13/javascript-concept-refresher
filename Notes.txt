@@ -86,3 +86,4 @@
 		funcName()	
 	#Arguments - none, single, multiple
 	#Return - return value captures it in variable then pass them to another function 
+	#Function Scope-Block Scope [var vs let&const: Identifiers+ Scope]
